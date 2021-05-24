@@ -1,0 +1,53 @@
+SENT-END [] SIL
+SENT-START [] SIL
+uno [uno] u n o
+dos [dos] d o s
+tres [tres] t r e s
+cuatro [cuatro] k u a t r o
+cinco [cinco] th i n k o
+seis [seis] s e i s
+siete [siete] s i e t e
+ocho [ocho] o ch o
+nueve [nueve] n u e b e
+diez [diez] d i e th
+once [once] o n th e
+doce [doce] d o th e
+trece [trece] t r e th e
+pon [pon] p o n
+por [por] p o r
+favor [favor] f a b o r
+sí [sí] s i
+supuesto [supuesto] s u p u e s t o
+no [no] n o 
+que [que] k e
+claro [claro] k l a r o
+seguro [seguro] s e g u r o
+cierto [cierto] th i e r t o
+canal [canal] k a n a l
+la [la] l a
+nova [nova] n o b a
+sexta [sexta] s e k s t a
+antena [antena] a n t e n a
+regional [regional] rr e x i o n a l
+televisión [televisión] t e l e b i s i o n
+veinticuatro [veinticuatro] b e i n t i k u a t r o
+elvina e l b i n a
+cambia k a m b i a
+elige e l i x e
+enciende e n th i e n d e
+apágate a p a g a t e
+quiero k e r o
+fdf e f e d e e f e
+telecinco t e l e th i n k o 
+energy e n e ɾ x i 
+canalsur k a n a l s u ɾ 
+andalucía a n d a l u th i a 
+tve t e u b e e 
+horas o ɾ a s
+pónme p o n m e 
+
+
+
+
+
+

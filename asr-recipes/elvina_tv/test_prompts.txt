@@ -1,0 +1,100 @@
+1. elvina elige dos 
+2. elvina claro 
+3. elvina cambia energy 
+4. elvina elige siete 
+5. elvina pon nova 
+6. elvina enciendete 
+7. elvina elige siete 
+8. elvina por supuesto que sí 
+9. elvina enciendete 
+10. elvina elige trece 
+11. elvina enciendete 
+12. elvina apágate 
+13. elvina pon la dos 
+14. elvina elige ocho 
+15. elvina elige cinco 
+16. elvina pon la uno 
+17. elvina elige trece 
+18. elvina elige tres 
+19. elvina elige seis 
+20. elvina no quiero 
+21. elvina pon cuatro 
+22. elvina apágate 
+23. elvina apágate 
+24. elvina elige ocho 
+25. elvina cambia telecinco 
+26. elvina apágate 
+27. elvina no quiero 
+28. elvina elige seis 
+29. elvina elige trece 
+30. elvina pónme energy 
+31. elvina por supuesto 
+32. elvina elige siete 
+33. elvina elige once 
+34. elvina cambia trece 
+35. elvina elige cinco 
+36. elvina elige tres 
+37. elvina enciendete 
+38. elvina enciendete 
+39. elvina sí quiero 
+40. elvina pon fdf 
+41. elvina elige siete 
+42. elvina apágate 
+43. elvina enciendete 
+44. elvina por supuesto que no 
+45. elvina apágate 
+46. elvina por supuesto que no 
+47. elvina enciendete 
+48. elvina pon canalsur andalucía televisión 
+49. elvina cambia trece 
+50. elvina claro que no 
+51. elvina cambia la uno 
+52. elvina elige siete 
+53. elvina no quiero 
+54. elvina elige nueve 
+55. elvina no quiero 
+56. elvina cambia nova 
+57. elvina elige dos 
+58. elvina sí quiero 
+59. elvina pon trece 
+60. elvina apágate 
+61. elvina cambia regional televisión 
+62. elvina elige ocho 
+63. elvina seguro 
+64. elvina elige cinco 
+65. elvina elige diez 
+66. elvina apágate 
+67. elvina enciendete 
+68. elvina elige nueve 
+69. elvina cierto 
+70. elvina cierto 
+71. elvina enciendete 
+72. elvina pónme telecinco 
+73. elvina apágate 
+74. elvina pon trece 
+75. elvina cierto 
+76. elvina seguro 
+77. elvina elige cinco 
+78. elvina elige diez 
+79. elvina cambia energy 
+80. elvina apágate 
+81. elvina pónme trece 
+82. elvina sí quiero 
+83. elvina apágate 
+84. elvina sí quiero 
+85. elvina elige doce 
+86. elvina elige cinco 
+87. elvina cambia la sexta 
+88. elvina pon telecinco 
+89. elvina claro que sí 
+90. elvina elige siete 
+91. elvina claro 
+92. elvina cierto 
+93. elvina enciendete 
+94. elvina sí quiero 
+95. elvina elige ocho 
+96. elvina claro que sí 
+97. elvina elige ocho 
+98. elvina elige trece 
+99. elvina elige dos 
+100. elvina pónme antena tres 
