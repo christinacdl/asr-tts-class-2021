@@ -7,7 +7,7 @@ This is a team project concerning a simple ASR (Automatic Speech Recognition) sy
 
 In the folder "elvina_tv":
 
-We created a simple grammar ("elvina_grammar_new.txt") containing Spanish words in capital letters that refer to digits, verbs, confirmation, negation, channel names and the order of these commands. The system would be activated by using the word "Elvina".  From this grammar, a wordlist was created in capital letters, which was used to map the corresponding phonemes to each word based on the Voxforge Spanish Dictionary.  We used HParse and the grammar to create a wordnet ("wdnet.txt"). A "new_lexicon_capital" was also made, which was used combined with the wordnet and HSGen to generate 100 random utterances in Spanish. The utterances were delivered by 5 speakers. 
+We created a simple grammar ("elvina_grammar_new.txt") containing Spanish words in capital letters that refer to digits, verbs, confirmation, negation, channel names and the order of these commands. The system would be activated by using the word "Elvina".  From this grammar, a wordlist was created in capital letters, which was used to map the corresponding phonemes to each word based on the Voxforge Spanish Dictionary.  We used HParse and the grammar to create a wordnet ("wdnet.txt"). A "new_lexicon_capital" was also made, which was used combined with the wordnet and HSGen to generate 100 random utterances in Spanish. The utterances were delivered by 7 speakers. 
 
 In the directory "elvina_recipe/s5/local":
 
