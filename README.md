@@ -45,30 +45,36 @@ c) Evaluation with regard to intelligibility and naturalness:
 
 DEMO VOICE
 I. Intelligibility
-          Sent1   Sent2   Sent3   Sent4   Sent5
-Vaia       1      1       3       4       4
-Elli       1      2       4       4       5       
-Christina  1      1       3       3       4
+| Member    | Sentence1 | Sentence2 | Sentence3 | Sentence4 | Sentence5 |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Vaia      | 1         | 1         | 3         | 4         | 4         |
+| Elli      | 1         | 2         | 4         | 4         | 5         |
+| Christina | 1         | 1         | 3         | 3         | 4         |
 												
 II. Naturalness 
-          Sent1   Sent2   Sent3   Sent4   Sent5
-Vaia      1       1       1       1       2
-Elli      1       1       2       2       3
-Christina 1       1       2       2       2
+| Member    | Sentence1 | Sentence2 | Sentence3 | Sentence4 | Sentence5 |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Vaia      | 1         | 1         | 1         | 1         | 2         |
+| Elli      | 1         | 1         | 2         | 2         | 3         |
+| Christina | 1         | 1         | 2         | 2         | 2         |
 
-Mean Opinion Scores for Demo Voice Naturalness:            Intelligibility:
+Mean Opinion Score for Naturalness:            
+Mean Opinion Score for Intelligibility:
 
 FULL VOICE
 I. Intelligibility
-          Sent1   Sent2   Sent3   Sent4   Sent5
-Vaia       4      5       5       5       5
-Elli       3      4       5       5       5       
-Christina  4      4       5       5       5
+| Member    | Sentence1 | Sentence2 | Sentence3 | Sentence4 | Sentence5 |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Vaia      | 4         | 5         | 5         | 5         | 5         |
+| Elli      | 3         | 4         | 5         | 5         | 5         |
+| Christina | 4         | 4         | 5         | 5         | 5         |
 												
 II. Naturalness 
-          Sent1   Sent2   Sent3   Sent4   Sent5
-Vaia      3       3       3       3       4
-Elli      3       3       3       4       4
-Christina 3       3       4       4       4
+| Member    | Sentence1 | Sentence2 | Sentence3 | Sentence4 | Sentence5 |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Vaia      | 3         | 3         | 3         | 3         | 4         |
+| Elli      | 3         | 3         | 3         | 4         | 4         |
+| Christina | 3         | 4         | 4         | 4         | 4         |
 
-Mean Opinion Scores for Full Voice Naturalness:            Intelligibility:
+Mean Opinion Scores for Naturalness:           
+Mean Opinion Score for Intelligibility:
