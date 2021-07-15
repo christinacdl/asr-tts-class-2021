@@ -2,8 +2,8 @@
 M907
 
 Team members:
-Vaia Adamopoulou (vaiaada)
-Elli Kafritsa (ellikaf)
+Vaia Adamopoulou (vaiaada),
+Elli Kafritsa (ellikaf),
 Christina Christodoulou (chrichr)
 
 1. Speech Recognition System
@@ -45,10 +45,10 @@ The generated audio files are located in other/users/tts-recipes/egs/slt_arctic/
 
 c) Evaluation with regard to intelligibility and naturalness on a scale 1-5:
 
-1: Very low
-2: Low
-3: Moderate
-4: Good
+1: Very low,
+2: Low,
+3: Moderate,
+4: Good,
 5: Excellent
 
 DEMO VOICE
