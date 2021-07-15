@@ -24,6 +24,8 @@ For the training and validation part, we wrote 2 python programs ("process1.py",
 
 2) Text to Speech Synthesis
 
+Speech synthesis (TTS) is defined as the artificial production of human voices. Ιt is used to translate a text into spoken speech automatically. It is based on graphemes, meaning the letters and groups of letters that transcribe a phoneme. Speech synthesis can be found in many applications. It was originally designed to help people with disabilities, particularly with cognitive disabilities, reading difficulties and/or visually impaired, in their daily lives. As far as our project is concerned, speech synthesis in Elvina Inclusive Smart TV would assist people with disabilities by transmitting messages via voice. Usually, people with Down Syndrome have difficulty in reading and thus, TTS would offer them digital accessibility. 
+
 a) We generated 5 project-related phrases in English using the merlin_tts engine and the slt_arctic recipe. We ran the "demo voice" and the "full_voice". 
 
 b) The phrases synthesized in English resemble the commands used for the "Elvina Inclusive Smart TV":
@@ -41,9 +43,16 @@ For the Full Voice:
 The 5 English sentences are located in other/users/tts-recipes/egs/slt_arctic/s1/experiments/slt_arctic_full/test_synthesis/txt
 The generated audio files are located in other/users/tts-recipes/egs/slt_arctic/s1/experiments/slt_arctic_full/test_synthesis/wav 
 
-c) Evaluation with regard to intelligibility and naturalness:
+c) Evaluation with regard to intelligibility and naturalness on a scale 1-5:
+
+1: Very low
+2: Low
+3: Moderate
+4: Good
+5: Excellent
 
 DEMO VOICE
+
 I. Intelligibility
 | Member    | Sentence1 | Sentence2 | Sentence3 | Sentence4 | Sentence5 |
 |-----------|-----------|-----------|-----------|-----------|-----------|
@@ -58,10 +67,11 @@ II. Naturalness
 | Elli      | 1         | 1         | 2         | 2         | 3         |
 | Christina | 1         | 1         | 2         | 2         | 2         |
 
-Mean Opinion Score for Naturalness:            
-Mean Opinion Score for Intelligibility:
+Mean Opinion Score for Naturalness: 1.53        
+Mean Opinion Score for Intelligibility: 2.73
 
 FULL VOICE
+
 I. Intelligibility
 | Member    | Sentence1 | Sentence2 | Sentence3 | Sentence4 | Sentence5 |
 |-----------|-----------|-----------|-----------|-----------|-----------|
@@ -76,5 +86,5 @@ II. Naturalness
 | Elli      | 3         | 3         | 3         | 4         | 4         |
 | Christina | 3         | 4         | 4         | 4         | 4         |
 
-Mean Opinion Scores for Naturalness:           
-Mean Opinion Score for Intelligibility:
+Mean Opinion Scores for Naturalness: 3.46        
+Mean Opinion Score for Intelligibility: 4.6
